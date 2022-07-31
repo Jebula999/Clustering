@@ -9,8 +9,8 @@ The script is VERY rough, and not very user friendly, as it was made for persona
 Please feal free to make recommendations or ways to clean up the script :)
 
 NOTE: 
-LatDegPerMeter = 0.000008999
-LongDegPerMeter = 0.000010844
+- LatDegPerMeter = 0.000008999
+- LongDegPerMeter = 0.000010844
 
 The above variables are calculated for South Africa, it is how many degrees per meter for latitude and longatude.
 For sake of accuracy, I advise doing the calculation for your region.
